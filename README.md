@@ -1,4 +1,4 @@
-# first_app
+# Dice roller (A basic project for learning)
 
 A new Flutter project.
 
